@@ -5,7 +5,7 @@
     "colab": {
       "name": "veritabani.txt",
       "provenance": [],
-      "authorship_tag": "ABX9TyNsNXOEwcm5rIxIyFZUx/Ij",
+      "authorship_tag": "ABX9TyMKWMVO2iy/YPSlVCoNCi9p",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -35,11 +35,11 @@
       },
       "outputs": [],
       "source": [
-        "Ahmet Umit - Istanbul Hatırası - Yapı Kredi Yayınları - 2010\n",
-        "Ahmet Umit - Kayıp Tanrılar Ülkesi - Yapı Kredi Yayınları - 2021\n",
-        "Jose Saramago - Körlük - Kırmızı Kedi - 2017\n",
-        "Anton Çehov - Altıncı Koğuş - İş Bankası Kültür Yayınları - 1892\n",
-        "George Orwell - Hayvan Çiftliği - Can Yayınları - 1982"
+        "1 Ahmet Umit - Istanbul Hatırası - Yapı Kredi Yayınları - 2010\n",
+        "2 Ahmet Umit - Kayıp Tanrılar Ülkesi - Yapı Kredi Yayınları - 2021\n",
+        "3 Jose Saramago - Körlük - Kırmızı Kedi - 2017\n",
+        "4 Anton Çehov - Altıncı Koğuş - İş Bankası Kültür Yayınları - 1892\n",
+        "5 George Orwell - Hayvan Çiftliği - Can Yayınları - 1982"
       ]
     }
   ]
